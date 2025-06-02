@@ -7,16 +7,21 @@ Auto_Poster is a tool for automating posts to various social media platforms.
 This repository includes a GitHub Pages site with the following pages:
 
 - [Homepage](https://[username].github.io/Auto_Poster/) - Overview of Auto_Poster and its features
-- [Privacy Policy](https://[username].github.io/Auto_Poster/privacy/privacy.html) - Detailed privacy policy for Auto_Poster
+- [Privacy Policy](https://[username].github.io/Auto_Poster/privacy/privacy.md) - Detailed privacy policy for Auto_Poster
 
 ### Local Development
 
 The GitHub Pages site is located in the `gh-pages` directory. To preview the site locally:
 
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/)
-2. Navigate to the `gh-pages` directory
-3. Run `bundle exec jekyll serve`
-4. Open your browser to `http://localhost:4000`
+2. Open a terminal application
+3. Navigate to the `gh-pages` directory using the `cd` command
+4. Run Jekyll from the terminal:
+   - If you installed Jekyll with Bundler: `bundle exec jekyll serve`
+   - If you installed Jekyll with Homebrew: `jekyll serve`
+5. Open your browser to `http://localhost:4000`
+
+Note: Jekyll is a command-line tool and must be run from a terminal application.
 
 ### Deployment
 

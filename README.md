@@ -1,1 +1,1 @@
-# n8n_auto_poster
+# Auto_Poster

@@ -1,6 +1,6 @@
 # Privacy Policy for Auto_Poster
 
-[Back to Home](../index.md)
+[Back to Home](../index.html)
 
 **Effective Date:** June 1, 2025
 

@@ -6,8 +6,8 @@ Auto_Poster is a tool for automating posts to various social media platforms.
 
 This repository includes a GitHub Pages site with the following pages:
 
-- [Homepage](https://[username].github.io/Auto_Poster/) - Overview of Auto_Poster and its features
-- [Privacy Policy](https://[username].github.io/Auto_Poster/privacy/privacy.md) - Detailed privacy policy for Auto_Poster
+- [Homepage](https://brundy.github.io/Auto_Poster/) - Overview of Auto_Poster and its features
+- [Privacy Policy](https://brundy.github.io/Auto_Poster/privacy/privacy.md) - Detailed privacy policy for Auto_Poster
 
 ### Local Development
 

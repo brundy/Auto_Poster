@@ -9,6 +9,10 @@ This repository includes a GitHub Pages site with the following pages:
 - [Homepage](https://brundy.github.io/Auto_Poster/) - Overview of Auto_Poster and its features
 - [Privacy Policy](https://brundy.github.io/Auto_Poster/privacy/privacy.md) - Detailed privacy policy for Auto_Poster
 
+**Note:** The content for the GitHub Pages site is in the `gh-pages` directory, not in this README.md file. Changes to this README.md file won't affect the GitHub Pages site. To update the GitHub Pages site, you need to modify the files in the `gh-pages` directory.
+
+**Important:** When accessing the GitHub Pages site, use the URL https://brundy.github.io/Auto_Poster/ (without index.html). The URL https://brundy.github.io/Auto_Poster/index.html will result in a 404 error because GitHub Pages is configured to serve the index.md file directly.
+
 ### Local Development
 
 The GitHub Pages site is located in the `gh-pages` directory. To preview the site locally:

@@ -15,7 +15,7 @@ Auto_Poster is a personal automation tool that uses n8n to schedule and publish 
 
 ## Privacy
 
-We take your privacy seriously. Please read our [Privacy Policy](privacy/privacy.md) to understand how we handle your data.
+We take your privacy seriously. Please read our [Privacy Policy](privacy.md) to understand how we handle your data.
 
 ## Local Development
 
